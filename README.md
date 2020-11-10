@@ -4,7 +4,7 @@
 
 <pre>
 
-[1]pkg update && pkg update -y
+[1]pkg update && pkg upgrade -y
 
 [2]pkg install python -y
 
