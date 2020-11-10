@@ -4,7 +4,7 @@ c1 = "\033[0;31m" #red
 c2 = "\033[0;32m" #green
 c3 = "\033[0;33m" #yellow
 c4 = "\033[0;36m" #cyan
-print(c2+">>>>>>>>>>>>>>>>>>>>>>>>>>>welcome My Bro<<<<<<<<<<<<<<<<<<<<<<<<")
+print(c2+">>>>>>>>>>>>>>>>>>>>>>>>>>>tanks<<<<<<<<<<<<<<<<<<<<<<<<")
 time.sleep(1)
 print(c2+"▄▄▄  ▄▄▄  ▄▄    ▄▄            ▄▄    ▄▄     ▄▄        ▄▄▄▄   ▄▄   ▄▄▄")  
 print(c2+"███  ███  ██    ██            ██    ██    ████     ██▀▀▀▀█  ██  ██▀") 
@@ -35,7 +35,7 @@ style_tool = """
 """
 os.system("clear")
 print(style_tool)
-E4 = input("enter number: ")
+E4 = input("enter sex: ")
 if E4 == "7":
     exit()
 if E4 == "1":
